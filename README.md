@@ -46,13 +46,4 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-## 🐍 My Contributions
-
-<img src="https://raw.githubusercontent.com/Gamer4378/Gamer4378/output/snake.svg" alt="Snake animation" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Gamer4378&style=flat-square&color=blue" alt="Profile Views" />
+/>
