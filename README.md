@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gamer4378&show_icons=true&count_private=true&theme=dark&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer4378&layout=compact&langs_count=7&theme=dark&hide_border=false&cache_seconds=1800" height="150" alt="Most Used Languages" />
-</div>
-
----
-
 ## 🌐 Heroic Studios
 
 <div>
@@ -51,7 +42,7 @@
   <a href="https://builtbybit.com/creators/heroic-studios.426046" target="_blank">
     <img src="https://img.shields.io/static/v1?message=BuiltByBit&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://x.com/4378Gamer" target="_blank">
+  <a href="https://x.com/ItzOverWolf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
