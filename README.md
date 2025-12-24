@@ -40,16 +40,13 @@ We focus on making resources that are easy to access, simple to install, and enj
 
 ---
 
-## 🌐 Heroic Studios
+## Links
 
-<div>
-Links
-BuiltByBit: https://builtbybit.com/creators/heroic-studios.426046/
-Modrinth: https://modrinth.com/user/ItzOverWolf
-McSets: https://mcsets.com/@heroicstudios
-Polymart: https://polymart.org/user/artemisstudios.33313
-GitHub: https://github.com/ItzOverWolf
-YouTube: https://www.youtube.com/@HeroicStudioss
-Website: https://wild-trails-development.gitbook.io/heroicstudios
-Discord: https://discord.gg/XMZuPWkjzE
-</div>
+- BuiltByBit: https://builtbybit.com/creators/heroic-studios.426046/
+- Modrinth: https://modrinth.com/user/ItzOverWolf
+- McSets: https://mcsets.com/@heroicstudios
+- Polymart: https://polymart.org/user/artemisstudios.33313
+- GitHub: https://github.com/ItzOverWolf
+- YouTube: https://www.youtube.com/@HeroicStudioss
+- Website: https://wild-trails-development.gitbook.io/heroicstudios
+- Discord: https://discord.gg/XMZuPWkjzE
