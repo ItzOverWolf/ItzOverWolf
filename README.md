@@ -4,11 +4,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 HI, I’m a developer focused on backend systems, Minecraft plugin development, and Server Development.
-- 💻 I enjoy building scalable Java applications and experimenting with other languages like Python, C++, and JavaScript.
-- 🌱 Currently learning more about front-end frameworks and optimizing performance in game modding.
-- 🧠 Always working on new tools and systems to improve gameplay experiences or development pipelines.
-- 🎮 Love creating immersive experiences through code, especially in Minecraft modding & server-side logic.
+Hi, I’m a developer focused on backend systems, Minecraft plugin development, and server development. I’m currently learning more about game development and design, with experience using Unity and Godot.
+I have over 5 years of experience working with public and private Minecraft servers and SMPs, including collaboration with multiple networks.
+
+I’m also the founder of Heroic Studios, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
+
+Heroic Studios has been creating Minecraft content for over 3 years. During that time:
+- Plugins have been downloaded 2,000+ times
+- Free setups have reached 60,000+ downloads across Polymart, BuiltByBit, and McSets
+- Paid setups have reached 200+ purchases
+
+We focus on making resources that are easy to access, simple to install, and enjoyable to use.
+  
 
 ## 🚀 My Tech Stack
 
