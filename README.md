@@ -36,7 +36,7 @@
 ## 🌐 Heroic Studios
 
 <div>
-  <a href="https://www.youtube.com/@ItzOverWolf" target="_blank">
+  <a href="https://www.youtube.com/@Heroicstudioss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://builtbybit.com/creators/heroic-studios.426046" target="_blank">
