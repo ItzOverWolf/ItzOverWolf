@@ -43,13 +43,13 @@ We focus on making resources that are easy to access, simple to install, and enj
 ## 🌐 Heroic Studios
 
 <div>
-  <a href="https://www.youtube.com/@Heroicstudioss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://builtbybit.com/creators/heroic-studios.426046" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BuiltByBit&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://x.com/ItzOverWolf" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+Links
+BuiltByBit: https://builtbybit.com/creators/heroic-studios.426046/
+Modrinth: https://modrinth.com/user/ItzOverWolf
+McSets: https://mcsets.com/@heroicstudios
+Polymart: https://polymart.org/user/artemisstudios.33313
+GitHub: https://github.com/ItzOverWolf
+YouTube: https://www.youtube.com/@HeroicStudioss
+Website: https://wild-trails-development.gitbook.io/heroicstudios
+Discord: https://discord.gg/XMZuPWkjzE
 </div>
