@@ -9,10 +9,10 @@ I have over 5 years of experience working with public and private Minecraft serv
 
 I’m also the founder of Heroic Studios, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
 
-Heroic Studios has been creating Minecraft content for over 3 years. During that time:
-- Plugins have been downloaded 2,000+ times
-- Free setups have reached 60,000+ downloads across Polymart, BuiltByBit, and McSets
-- Paid setups have reached 200+ purchases
+I have been creating content for Heroic Studios for over 3 years. During that time:
+- My Plugins have been downloaded 2,000+ times
+- My Free server setups have reached 60,000+ downloads across Polymart, BuiltByBit, and McSets
+- My Paid setups have reached 200+ purchases
 
 We focus on making resources that are easy to access, simple to install, and enjoyable to use.
   
