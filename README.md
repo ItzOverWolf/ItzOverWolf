@@ -6,7 +6,7 @@
 
 Hi, I’m a 17 year old developer focused on backend systems, Minecraft plugin development, and server development. 
 
-I have over 4+ years of experience working with public and private Minecraft servers and SMPs, including collaboration with multiple networks.
+I have over 5+ years of experience working on public Minecraft Networks and Small Private SMPs.
 
 I’m also the founder of Heroic Studios, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
 
