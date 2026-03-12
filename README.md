@@ -47,7 +47,6 @@ We focus on making resources that are easy to access, simple to install, and enj
 
 - BuiltByBit: https://builtbybit.com/creators/heroic-studios.426046/
 - Modrinth: https://modrinth.com/user/ItzOverWolf
-- McSets: https://mcsets.com/@heroicstudios
 - Polymart: https://polymart.org/user/artemisstudios.33313
 - GitHub: https://github.com/ItzOverWolf
 - YouTube: https://www.youtube.com/@HeroicStudioss
