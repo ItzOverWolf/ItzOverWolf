@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi, I’m a 17 year old developer focused on backend systems, Minecraft plugin development, and server development. 
+Hi, I’m a 18 year old developer focused on backend systems, Minecraft plugin development, and server development. 
 
 I have over 5+ years of experience working on public Minecraft Networks and Small Private SMPs.
 
