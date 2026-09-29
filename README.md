@@ -41,13 +41,6 @@ We focus on making resources that are easy to access, simple to install, and enj
   <img src="assets/forge.jpg" height="30" alt="Forge" style="margin-right: 10px;" />
 </div>
 
----
-
-## ⭐ Reviews
-
-![Customer Reviews](assets/reviews.png)
-
----
 
 ## 🔗 Links
 
@@ -58,4 +51,11 @@ We focus on making resources that are easy to access, simple to install, and enj
 - [**YouTube**](https://www.youtube.com/@HeroicStudioss)
 - [**Website**](https://wild-trails-development.gitbook.io/heroicstudios)
 - [**Discord**](https://discord.gg/XMZuPWkjzE)
+
+
+## ⭐ Reviews
+
+![Customer Reviews](assets/reviews.png)
+
+
 
