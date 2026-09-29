@@ -8,7 +8,7 @@ Hi, I’m a 18 year old developer focused on backend systems, Minecraft plugin d
 
 I have over 5+ years of experience working on public Minecraft Networks and Small Private SMPs.
 
-I am Currently learning more about game developement and the godot game engine.
+I am currently learning more about game developement and the godot game engine.
 
 I’m also the founder of Heroic Studios, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
 
