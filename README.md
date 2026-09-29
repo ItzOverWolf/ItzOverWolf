@@ -52,3 +52,4 @@ We focus on making resources that are easy to access, simple to install, and enj
 - [**YouTube**](https://www.youtube.com/@HeroicStudioss)
 - [**Website**](https://wild-trails-development.gitbook.io/heroicstudios)
 - [**Discord**](https://discord.gg/XMZuPWkjzE)
+
