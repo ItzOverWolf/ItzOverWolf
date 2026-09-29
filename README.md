@@ -43,6 +43,12 @@ We focus on making resources that are easy to access, simple to install, and enj
 
 ---
 
+## ⭐ Reviews
+
+![Customer Reviews](assets/reviews.png)
+
+---
+
 ## 🔗 Links
 
 - [**BuiltByBit**](https://builtbybit.com/creators/heroic-studios.426046/)
