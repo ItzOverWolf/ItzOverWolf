@@ -55,7 +55,7 @@ We focus on making resources that are easy to access, simple to install, and enj
 
 ## ⭐ Reviews
 
-![Customer Reviews for Heroic Survival!](assets/reviews.png)
+![Customer Reviews for Heroic Survival!](assets/reviews2.png)
 
 
 
