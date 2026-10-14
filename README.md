@@ -6,10 +6,8 @@
 
 Hi, I’m an 18-year-old developer focused on backend systems, Minecraft plugin development, and server development. 
 
-I have 5+ years of experience working on public Minecraft Networks and small private SMPs.
-
-I am currently expanding into game development using the Godot engine, actively working on an indie top-down shooter, Defend the Harvest.
-
+I have 5+ years of experience working on public minecraft servers and small private SMPs.
+I am currently expanding into game development using the Godot engine.
 I’m also the founder of **Heroic Studios**, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
 
 I have been creating content for Heroic Studios for over 3 years. During that time:
