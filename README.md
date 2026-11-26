@@ -82,6 +82,6 @@ Over 3+ years of building and releasing resources:
 | ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) |
 | ![Screenshot 3](assets/screenshot3.png) | ![Screenshot 4](assets/screenshot4.png) |
 | ![Screenshot 5](assets/screenshot5.png) | ![Screenshot 6](assets/screenshot6.png) |
-| ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/Setup.png) |
+| ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/Setups.png) |
 | ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/screenshot10.png) |
 
