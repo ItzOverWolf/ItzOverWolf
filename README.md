@@ -8,7 +8,7 @@
   <a href="https://builtbybit.com/creators/heroic-studios.426046/"><img src="https://img.shields.io/badge/BuiltByBit-Store-blue?style=for-the-badge" /></a>
   <a href="https://modrinth.com/organization/heroic-studios"><img src="https://img.shields.io/badge/Modrinth-Profile-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
   <a href="https://discord.gg/XMZuPWkjzE"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@HeroicStudioss"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@HeroicStudiosMC"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
