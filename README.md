@@ -55,12 +55,19 @@ We focus on making resources that are easy to access, simple to install, and enj
 
 ![Customer Reviews for Heroic Survival!](assets/reviews2.png)
 
-
-## 🌍 Showcases
-
 ## 🌍 Showcases
 
 | Showcase 1 | Showcase 2 | Showcase 3 |
 | :---: | :---: | :---: |
-| [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/maxresdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/maxresdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/maxresdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
+| [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
 | **[Watch on YouTube](https://youtu.be/1ptk2mErYbs)** | **[Watch on YouTube](https://youtu.be/VbnEXWlTTVs)** | **[Watch on YouTube](https://youtu.be/0NOZ5HXD51U)** |
+
+## 📸 Screenshots
+
+| | |
+| :---: | :---: |
+| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) |
+| ![Screenshot 3](assets/screenshot3.png) | ![Screenshot 4](assets/screenshot4.png) |
+| ![Screenshot 5](assets/screenshot5.png) | ![Screenshot 6](assets/screenshot6.png) |
+| ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/screenshot8.png) |
+| ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/screenshot10.png) |
