@@ -1,68 +1,83 @@
-<h1>Hi there 👋, I'm ItzOverWolf</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ItzOverWolf&fontSize=50&animation=fadeIn&desc=Java%20Developer%20%E2%80%A2%20Founder%20of%20Heroic%20Studios&descAlignY=70" />
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn" />
+<p align="center">
+  <b>Java & Minecraft plugin developer · Founder of Heroic Studios · 60,000+ downloads</b>
+</p>
+
+<p align="center">
+  <a href="https://builtbybit.com/creators/heroic-studios.426046/"><img src="https://img.shields.io/badge/BuiltByBit-Store-blue?style=for-the-badge" /></a>
+  <a href="https://modrinth.com/user/ItzOverWolf"><img src="https://img.shields.io/badge/Modrinth-Profile-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
+  <a href="https://discord.gg/XMZuPWkjzE"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@HeroicStudioss"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
 
-Hi, I’m an 18-year-old developer focused on backend systems, Minecraft plugin developmentand server development. 
+I'm an 18-year-old developer focused on **backend systems, Minecraft plugin development and server development**, with **5+ years** of experience on public Minecraft servers and private SMPs.
 
-I have 5+ years of experience working on public minecraft servers and small private SMPs.
-I am currently expanding into game development using the Godot engine.
-I’m also the founder of **Heroic Studios**, a Minecraft-focused development community that creates and sells server-side plugins, mods, complete server setups, and configuration packages.
+I'm the founder of **Heroic Studios**, a Minecraft development community that creates and sells server-side plugins, mods, complete server setups and configuration packages. Our goal is simple: resources that are **easy to access, simple to install and fun to use**.
 
-I have been creating content for Heroic Studios for over 3 years. During that time:
-- **My Plugins** have been downloaded 2,000+ times
-- **My Free server setups** have reached 60,000+ downloads across Polymart, BuiltByBit, and McSets
-- **My Paid setups** have reached 200+ purchases
+I'm currently expanding into **game development with Godot**.
 
-We focus on making resources that are easy to access, simple to install, and enjoyable to use.
-  
-## 🚀 My Tech Stack
+## 📊 Heroic Studios in Numbers
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="GDScript" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" style="margin-right: 10px;" />
-</div>
+Over 3+ years of building and releasing resources:
 
-## ⛏️ Minecraft Stack
+| 📦 Free setup downloads | 🔌 Plugin downloads | 💰 Paid setup purchases |
+| :---: | :---: | :---: |
+| **60,000+** | **2,000+** | **200+** |
 
-<div>
-  <img src="assets/spigot.png" height="30" alt="Spigot" style="margin-right: 10px;" />
-  <img src="assets/paper.png" height="30" alt="Paper" style="margin-right: 10px;" />
-  <img src="assets/bukkit.png" height="30" alt="Bukkit" style="margin-right: 10px;" />
-  <img src="assets/purpur.png" height="30" alt="Purpur" style="margin-right: 10px;" />
-  <img src="assets/fabric.png" height="30" alt="Fabric" style="margin-right: 10px;" />
-  <img src="assets/forge.jpg" height="30" alt="Forge" style="margin-right: 10px;" />
-</div>
+<sub>Across BuiltByBit, Polymart, Modrinth and McSets.</sub>
 
+## 🛠️ Featured Projects
 
-## 🔗 Links
+| Project | What it does |
+| --- | --- |
+| [**HeroicVolleyBall**](https://github.com/ItzOverWolf/HeroicVolleyBall) | Recreates the feeling of *Haikyuu* volleyball matches in Minecraft |
+| [**HeroicHollowPlayer**](https://github.com/ItzOverWolf/HeroicHollowPlayer) | Brings *Hollow Knight*-inspired features into Minecraft |
+| [**HeroicBiomeCompass**](https://github.com/ItzOverWolf/HeroicBiomeCompass) | A craftable compass that tracks any biome, for a price |
+| [**RealisticCrafting**](https://github.com/ItzOverWolf/RealisticCrafting) | Crafted tools and armor can come out broken, normal or enchanted |
+| [**LocalDeathMessages**](https://github.com/ItzOverWolf/LocalDeathMessages) | Shows death messages only to players near where someone died |
+| [**HeroicStrikeCannon**](https://github.com/ItzOverWolf/HeroicStrikeCannon) | An add-on plugin for Simple Lifesteal |
 
-- [**BuiltByBit**](https://builtbybit.com/creators/heroic-studios.426046/)
-- [**Modrinth**](https://modrinth.com/user/ItzOverWolf)
-- [**Polymart**](https://polymart.org/user/artemisstudios.33313)
-- [**GitHub**](https://github.com/ItzOverWolf)
-- [**YouTube**](https://www.youtube.com/@HeroicStudioss)
-- [**Website**](https://wild-trails-development.gitbook.io/heroicstudios)
-- [**Discord**](https://discord.gg/XMZuPWkjzE)
+## 🚀 Tech Stack
 
+**Main language**
 
-## ⭐ Reviews
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 
-![Customer Reviews for Heroic Survival!](assets/reviews2.png)
+**Also work with**
 
-## 🌍 Showcases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="Godot / GDScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+
+**Minecraft platforms**
+
+<img src="assets/paper.png" height="30" alt="Paper" />&nbsp;
+<img src="assets/spigot.png" height="30" alt="Spigot" />&nbsp;
+<img src="assets/bukkit.png" height="30" alt="Bukkit" />&nbsp;
+<img src="assets/purpur.png" height="30" alt="Purpur" />&nbsp;
+<img src="assets/fabric.png" height="30" alt="Fabric" />&nbsp;
+<img src="assets/forge.jpg" height="30" alt="Forge" />
+
+## ⭐ What Customers Say
+
+![Customer reviews for Heroic Survival](assets/reviews2.png)
+
+## 🎬 Showcases
 
 | Showcase 1 | Showcase 2 | Showcase 3 |
 | :---: | :---: | :---: |
 | [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
-| **[Watch on YouTube](https://youtu.be/1ptk2mErYbs)** | **[Watch on YouTube](https://youtu.be/VbnEXWlTTVs)** | **[Watch on YouTube](https://youtu.be/0NOZ5HXD51U)** |
 
-## 📸 Screenshots
+<details>
+<summary><b>📸 Screenshots (click to expand)</b></summary>
+<br>
 
 | | |
 | :---: | :---: |
@@ -71,3 +86,11 @@ We focus on making resources that are easy to access, simple to install, and enj
 | ![Screenshot 5](assets/screenshot5.png) | ![Screenshot 6](assets/screenshot6.png) |
 | ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/screenshot8.png) |
 | ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/screenshot10.png) |
+
+</details>
+
+## 🔗 Find Me
+
+- 🛒 [BuiltByBit](https://builtbybit.com/creators/heroic-studios.426046/) · [Polymart](https://polymart.org/user/artemisstudios.33313) · [Modrinth](https://modrinth.com/user/ItzOverWolf)
+- 📖 [Heroic Studios Wiki](https://wild-trails-development.gitbook.io/heroicstudios)
+- 💬 [Discord](https://discord.gg/XMZuPWkjzE) · ▶️ [YouTube](https://www.youtube.com/@HeroicStudioss)
