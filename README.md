@@ -56,7 +56,8 @@ We focus on making resources that are easy to access, simple to install, and enj
 ![Customer Reviews for Heroic Survival!](assets/reviews2.png)
 
 
-## 🌍Showcases
-https://youtu.be/1ptk2mErYbs
-https://youtu.be/VbnEXWlTTVs
-https://youtu.be/0NOZ5HXD51U
+## 🌍 Showcases
+
+[![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/hqdefault.jpg)](https://youtu.be/1ptk2mErYbs)
+[![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/hqdefault.jpg)](https://youtu.be/VbnEXWlTTVs)
+[![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/hqdefault.jpg)](https://youtu.be/0NOZ5HXD51U)
