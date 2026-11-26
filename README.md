@@ -76,7 +76,7 @@ Over 3+ years of building and releasing resources:
 | [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
 
 <details>
-<summary><b>📸 Screenshots (click to expand)</b></summary>
+<b>📸 Screenshots</b>
 <br>
 
 | | |
@@ -88,9 +88,3 @@ Over 3+ years of building and releasing resources:
 | ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/screenshot10.png) |
 
 </details>
-
-## 🔗 Find Me
-
-- 🛒 [BuiltByBit](https://builtbybit.com/creators/heroic-studios.426046/) · [Polymart](https://polymart.org/user/artemisstudios.33313) · [Modrinth](https://modrinth.com/user/ItzOverWolf)
-- 📖 [Heroic Studios Wiki](https://wild-trails-development.gitbook.io/heroicstudios)
-- 💬 [Discord](https://discord.gg/XMZuPWkjzE) · ▶️ [YouTube](https://www.youtube.com/@HeroicStudioss)
