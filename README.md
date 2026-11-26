@@ -75,9 +75,7 @@ Over 3+ years of building and releasing resources:
 | :---: | :---: | :---: |
 | [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
 
-<details>
 <b>📸 Screenshots</b>
-<br>
 
 | | |
 | :---: | :---: |
@@ -87,4 +85,3 @@ Over 3+ years of building and releasing resources:
 | ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/screenshot8.png) |
 | ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/screenshot10.png) |
 
-</details>
