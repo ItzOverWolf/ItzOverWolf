@@ -67,21 +67,39 @@ Over 3+ years of building and releasing resources:
 
 ## ⭐ What Customers Say
 
-![Customer reviews for Heroic Survival](assets/reviews2.png)
+<img src="assets/reviews2.png" width="820" alt="Customer reviews for Heroic Survival" />
 
 ## 🎬 Showcases
 
-| Showcase 1 | Showcase 2 | Showcase 3 |
-| :---: | :---: | :---: |
-| [![Showcase 1](https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg)](https://youtu.be/1ptk2mErYbs) | [![Showcase 2](https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg)](https://youtu.be/VbnEXWlTTVs) | [![Showcase 3](https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg)](https://youtu.be/0NOZ5HXD51U) |
+<table>
+  <tr>
+    <td align="center"><a href="https://youtu.be/1ptk2mErYbs"><img src="https://img.youtube.com/vi/1ptk2mErYbs/mqdefault.jpg" width="260" height="146" alt="Showcase 1" /></a><br><b>Showcase 1</b></td>
+    <td align="center"><a href="https://youtu.be/VbnEXWlTTVs"><img src="https://img.youtube.com/vi/VbnEXWlTTVs/mqdefault.jpg" width="260" height="146" alt="Showcase 2" /></a><br><b>Showcase 2</b></td>
+    <td align="center"><a href="https://youtu.be/0NOZ5HXD51U"><img src="https://img.youtube.com/vi/0NOZ5HXD51U/mqdefault.jpg" width="260" height="146" alt="Showcase 3" /></a><br><b>Showcase 3</b></td>
+  </tr>
+</table>
 
-<b>📸 Screenshots</b>
+## 📸 Screenshots
 
-| | |
-| :---: | :---: |
-| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) |
-| ![Screenshot 3](assets/screenshot3.png) | ![Screenshot 4](assets/screenshot4.png) |
-| ![Screenshot 5](assets/screenshot5.png) | ![Screenshot 6](assets/screenshot6.png) |
-| ![Screenshot 7](assets/screenshot7.png) | ![Screenshot 8](assets/Setups.png) |
-| ![Screenshot 9](assets/screenshot9.png) | ![Screenshot 10](assets/Screenshot_2.png) |
-
+<table>
+  <tr>
+    <td><img src="assets/screenshot1.png" width="400" height="225" alt="Screenshot 1" /></td>
+    <td><img src="assets/screenshot2.png" width="400" height="225" alt="Screenshot 2" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot3.png" width="400" height="225" alt="Screenshot 3" /></td>
+    <td><img src="assets/screenshot4.png" width="400" height="225" alt="Screenshot 4" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot5.png" width="400" height="225" alt="Screenshot 5" /></td>
+    <td><img src="assets/screenshot6.png" width="400" height="225" alt="Screenshot 6" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot7.png" width="400" height="225" alt="Screenshot 7" /></td>
+    <td><img src="assets/Setups.png" width="400" height="225" alt="Screenshot 8" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot9.png" width="400" height="225" alt="Screenshot 9" /></td>
+    <td><img src="assets/Screenshot_2.png" width="400" height="225" alt="Screenshot 10" /></td>
+  </tr>
+</table>
